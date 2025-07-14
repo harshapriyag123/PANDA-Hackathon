@@ -1,5 +1,5 @@
 # PANDA-Hackathon
-# 🧠 MoodMate – Your AI-Powered Emotional Wellness Companion
+# MoodMate – Your AI-Powered Emotional Wellness Companion
 
 MoodMate is an AI journaling assistant designed to help students reflect on their emotional well-being. Using natural language processing, it detects emotional tone in daily journal entries and provides personalized suggestions to support mental health.
 
@@ -33,7 +33,7 @@ Run MoodMate in your browser, no installation needed:
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **Python** – Core backend logic  
 - **Gradio** – Lightweight UI for journaling and emotion analysis  
@@ -46,7 +46,7 @@ Run MoodMate in your browser, no installation needed:
 
 ---
 
-## 📦 Installation (Local)
+## Installation (Local)
 
 To run locally:
 

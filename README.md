@@ -78,7 +78,7 @@ This will launch the Gradio interface in your browser.
 
 ## Track: Agentic AI
 - Theme: AI tools that adapt, act, and assist students
-- Built by: Harsha Priya Ganapathy & Sankarraj Subramani
+- Built by: Sankarraj Subramani & Harsha Priya Ganapathy
 - Status: Submitted to PANDA Hacks 2025 on Devpost
 
 ## License

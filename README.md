@@ -86,6 +86,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions, collaborations, or feedback:
+📧 sankar.raj9@gmail.com
 📧 harshapriyag22@gmail.com
 
 ## Final Message
